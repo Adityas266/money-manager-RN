@@ -1,4 +1,4 @@
-# Money Manager
+# Finance Manager
 
 ## Introduction
 
